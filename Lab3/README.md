@@ -36,8 +36,8 @@ Resnet18 имеет около 11 миллионов обучаемых пара
 
 ### Сравнение по точности, времени выполнения, памяти:
 
-Top 5 accuracy |	Top 1 accuracy	| Time |	GPU usage
----|---|---|---
+Model|Top 5 accuracy |	Top 1 accuracy	| Time |	GPU usage
+---|---|---|---|---
 ResNet50 |	0.133	| 0.133	| 10.5 s |	0.2 GB
 VGG19	| 0.133	| 0.133 |	1.48 s	| 0.6 GB
 AlexNet	| 0.133 |	0.133 |	931 ms	| 0.6 GB
